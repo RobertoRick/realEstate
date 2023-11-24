@@ -1,7 +1,7 @@
 {
   "proprietati": [
     {
-      "id": 1,
+      "id": ,
       "locatie": "Strada Principală nr. 123",
       "oras":"Ramnicu Valcea",
       "pret": 250000,
@@ -10,7 +10,7 @@
       "nr_camere": 3
     },
     {
-      "id": 2,
+      "id": ,
       "locatie": "Aleea Stejarului nr. 456",
       "oras":"Craiova",
       "pret": 350000,
@@ -19,7 +19,7 @@
       "nr_camere": 4
     },
     {
-      "id": 3,
+      "id": ,
       "locatie": "Strada Pinului nr. 789",
       "oras":"Targu Jiu",
       "pret": 180000,
