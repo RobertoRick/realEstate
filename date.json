@@ -1,5 +1,4 @@
 {
-  "proprietati": [
     {
       "id": 1,
       "locatie": "Strada Principală nr. 123",
@@ -540,5 +539,4 @@
       "img_url":"",
       "nr_camere": 2
     }
-  ]
 }
