@@ -1,0 +1,50 @@
+[
+{
+  "idProprietar": 1,
+  "nume": "Olaru Rick Roberto",
+  "varsta": 22,
+  "nrTelefon": "0748344359",
+  "email": "proprietarRoberto@gmail.com",
+  "img": ""
+},
+  {
+  "idProprietar": 2,
+  "nume": "Marchidanu Larisa",
+  "varsta": 22,
+  "nrTelefon": "0756385754",
+  "email": "proprietarLarisa@gmail.com",
+  "img": ""
+},
+  {
+  "idProprietar": 3,
+  "nume": "Bradu Adela",
+  "varsta": 23,
+  "nrTelefon": "0756745982",
+  "email": "proprietarAdela@gmail.com",
+  "img": ""
+},
+  {
+  "idProprietar": 4,
+  "nume": "Nicoara Catinca",
+  "varsta": 22,
+  "nrTelefon": "0748344359",
+  "email": "proprietarCatinca@gmail.com",
+  "img": ""
+},
+  {
+  "idProprietar": 5,
+  "nume": "Negoita Ariadna",
+  "varsta": 23,
+  "nrTelefon": "0735849586",
+  "email": "proprietarAriadna@gmail.com",
+  "img": ""
+},
+{
+  "idProprietar": 6,
+  "nume": "Florea Luisa",
+  "varsta": 22,
+  "nrTelefon": "0788473643",
+  "email": "proprietarLuisa@gmail.com",
+  "img": ""
+}
+]
