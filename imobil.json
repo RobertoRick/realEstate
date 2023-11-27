@@ -1,6 +1,7 @@
 [
     {
-      "id": 1,
+    "id": 1,
+    "idProprietar":1,
       "locatie": "Strada Principală nr. 123",
       "oras":"Ramnicu Valcea",
       "pret": 250000,
@@ -10,6 +11,7 @@
     },
     {
       "id": 2,
+         "idProprietar":2,
       "locatie": "Aleea Stejarului nr. 456",
       "oras":"Craiova",
       "pret": 350000,
@@ -19,6 +21,7 @@
     },
     {
       "id": 3,
+         "idProprietar":3,
       "locatie": "Strada Pinului nr. 789",
       "oras":"Targu Jiu",
       "pret": 180000,
@@ -28,6 +31,7 @@
     },
     {
       "id": 4,
+         "idProprietar":4,
       "locatie": "Strada Principală nr. 123",
       "oras":"Sibiu",
       "pret": 250000,
@@ -37,6 +41,7 @@
     },
     {
       "id": 5,
+         "idProprietar":5,
       "locatie": "Aleea Stejarului nr. 456",
       "oras":"Galati",
       "pret": 350000,
@@ -46,6 +51,7 @@
     },
     {
       "id": 6,
+         "idProprietar":6,
       "locatie": "Strada Pinului nr. 789",
       "oras":"Cluj-Napoca",
       "pret": 180000,
@@ -55,6 +61,7 @@
     },
     {
       "id": 7,
+         "idProprietar":1,
       "locatie": "Strada Principală nr. 123",
       "oras":"Bucuresti",
       "pret": 250000,
@@ -64,6 +71,7 @@
     },
     {
       "id": 8,
+         "idProprietar":2,
       "locatie": "Aleea Stejarului nr. 456",
       "oras":"Galati",
       "pret": 350000,
@@ -73,6 +81,7 @@
     },
     {
       "id": 9,
+         "idProprietar":3,
       "locatie": "Strada Pinului nr. 789",
       "oras":"Brasov",
       "pret": 180000,
@@ -82,6 +91,7 @@
     },
     {
       "id": 10,
+         "idProprietar":4,
       "locatie": "Strada Principală nr. 123",
       "oras":"Timisoara",
       "pret": 250000,
@@ -91,6 +101,7 @@
     },
     {
       "id": 11,
+         "idProprietar":5,
       "locatie": "Aleea Stejarului nr. 456",
       "oras":"Timisoara",
       "pret": 350000,
@@ -100,6 +111,7 @@
     },
     {
       "id": 12,
+         "idProprietar":6,
       "locatie": "Strada Pinului nr. 789",
       "oras":"Timisoara",
       "pret": 180000,
@@ -109,6 +121,7 @@
     },
     {
       "id": 13,
+         "idProprietar":1,
       "locatie": "Strada Principală nr. 123",
       "oras":"Ploiesti",
       "pret": 250000,
@@ -118,6 +131,7 @@
     },
     {
       "id": 14,
+         "idProprietar":2,
       "locatie": "Aleea Stejarului nr. 456",
       "oras":"Ploiesti",
       "pret": 350000,
@@ -127,6 +141,7 @@
     },
     {
       "id": 15,
+         "idProprietar":3,
       "locatie": "Strada Pinului nr. 789",
       "oras":"Ploiesti",
       "pret": 180000,
@@ -136,6 +151,7 @@
     },
     {
       "id": 16,
+         "idProprietar":4,
       "locatie": "Strada Principală nr. 123",
       "oras":"Ploiesti",
       "pret": 250000,
@@ -145,6 +161,7 @@
     },
     {
       "id": 17,
+         "idProprietar":5,
       "locatie": "Aleea Stejarului nr. 456",
       "oras":"Pitesti",
       "pret": 350000,
@@ -154,6 +171,7 @@
     },
     {
       "id": 18,
+         "idProprietar":6,
       "locatie": "Strada Pinului nr. 789",
       "oras":"Pitesti",
       "pret": 180000,
@@ -163,6 +181,7 @@
     },
     {
       "id": 19,
+         "idProprietar":1,
       "locatie": "Strada Principală nr. 123",
       "oras":"Pitesti",
       "pret": 250000,
@@ -172,6 +191,7 @@
     },
     {
       "id": 20,
+         "idProprietar":2,
       "locatie": "Aleea Stejarului nr. 456",
       "oras":"Pitesti",
       "pret": 350000,
@@ -181,6 +201,7 @@
     },
     {
       "id": 21,
+         "idProprietar":3,
       "locatie": "Strada Pinului nr. 789",
       "oras":"Iasi",
       "pret": 180000,
@@ -190,6 +211,7 @@
     },
     {
       "id": 22,
+         "idProprietar":4,
       "locatie": "Strada Principală nr. 123",
       "oras":"Iasi",
       "pret": 250000,
@@ -199,6 +221,7 @@
     },
     {
       "id": 23,
+         "idProprietar":5,
       "locatie": "Aleea Stejarului nr. 456",
       "oras":"Iasi",
       "pret": 350000,
@@ -208,6 +231,7 @@
     },
     {
       "id": 24,
+         "idProprietar":6,
       "locatie": "Strada Pinului nr. 789",
       "oras":"Iasi",
       "pret": 180000,
@@ -217,6 +241,7 @@
     },
     {
       "id": 25,
+         "idProprietar":1,
       "locatie": "Strada Principală nr. 123",
       "oras":"Sibiu",
       "pret": 250000,
@@ -226,6 +251,7 @@
     },
     {
       "id": 26,
+         "idProprietar":2,
       "locatie": "Aleea Stejarului nr. 456",
       "oras":"Sibiu",
       "pret": 350000,
@@ -235,6 +261,7 @@
     },
     {
       "id": 27,
+         "idProprietar":3,
       "locatie": "Strada Pinului nr. 789",
       "oras":"Sibiu",
       "pret": 180000,
@@ -244,6 +271,7 @@
     },
     {
       "id": 28,
+         "idProprietar":4,
       "locatie": "Strada Principală nr. 123",
       "oras":"Sibiu",
       "pret": 250000,
@@ -253,6 +281,7 @@
     },
     {
       "id": 29,
+         "idProprietar":5,
       "locatie": "Aleea Stejarului nr. 456",
       "oras":"Sibiu",
       "pret": 350000,
@@ -262,6 +291,7 @@
     },
     {
       "id": 30,
+         "idProprietar":6,
       "locatie": "Strada Pinului nr. 789",
       "oras":"Galati",
       "pret": 180000,
@@ -271,6 +301,7 @@
     },
     {
       "id": 31,
+         "idProprietar":1,
       "locatie": "Strada Principală nr. 123",
       "oras":"Galati",
       "pret": 250000,
@@ -280,6 +311,7 @@
     },
     {
       "id": 32,
+         "idProprietar":2,
       "locatie": "Aleea Stejarului nr. 456",
       "oras":"Oradea",
       "pret": 350000,
@@ -289,6 +321,7 @@
     },
     {
       "id": 33,
+         "idProprietar":3,
       "locatie": "Strada Pinului nr. 789",
       "oras":"Oradea",
       "pret": 180000,
@@ -298,6 +331,7 @@
     },
     {
       "id": 34,
+         "idProprietar":4,
       "locatie": "Strada Principală nr. 123",
       "oras":"Oradea",
       "pret": 250000,
@@ -307,6 +341,7 @@
     },
     {
       "id": 35,
+         "idProprietar":5,
       "locatie": "Aleea Stejarului nr. 456",
       "oras":"Oradea",
       "pret": 350000,
@@ -316,224 +351,9 @@
     },
     {
       "id": 36,
+         "idProprietar":6,
       "locatie": "Strada Pinului nr. 789",
       "oras":"Oradea",
-      "pret": 180000,
-      "suprafata": 1200,
-      "img_url":"",
-      "nr_camere": 2
-    },
-    {
-      "id": 37,
-      "locatie": "Strada Principală nr. 123",
-      "oras":"Craiova",
-      "pret": 250000,
-      "suprafata": 1800,
-      "img_url":"",
-      "nr_camere": 3
-    },
-    {
-      "id": 38,
-      "locatie": "Aleea Stejarului nr. 456",
-      "oras":"Craiova",
-      "pret": 350000,
-      "suprafata": 2200,
-      "img_url":"",
-      "nr_camere": 4
-    },
-    {
-      "id": 39,
-      "locatie": "Strada Pinului nr. 789",
-      "oras":"Craiova",
-      "pret": 180000,
-      "suprafata": 1200,
-      "img_url":"",
-      "nr_camere": 2
-    },
-    {
-      "id": 40,
-      "locatie": "Strada Principală nr. 123",
-      "oras":"Craiova",
-      "pret": 250000,
-      "suprafata": 1800,
-      "img_url":"",
-      "nr_camere": 3
-    },
-    {
-      "id": 41,
-      "locatie": "Aleea Stejarului nr. 456",
-      "oras":"Brasov",
-      "pret": 350000,
-      "suprafata": 2200,
-      "img_url":"",
-      "nr_camere": 4
-    },
-    {
-      "id": 42,
-      "locatie": "Strada Pinului nr. 789",
-      "oras":"Brasov",
-      "pret": 180000,
-      "suprafata": 1200,
-      "img_url":"",
-      "nr_camere": 2
-    },
-    {
-      "id": 43,
-      "locatie": "Strada Principală nr. 123",
-      "oras":"Brasov",
-      "pret": 250000,
-      "suprafata": 1800,
-      "img_url":"",
-      "nr_camere": 3
-    },
-    {
-      "id": 44,
-      "locatie": "Aleea Stejarului nr. 456",
-      "oras":"Brasov",
-      "pret": 350000,
-      "suprafata": 2200,
-      "img_url":"",
-      "nr_camere": 4
-    },
-    {
-      "id": 45,
-      "locatie": "Strada Pinului nr. 789",
-      "oras":"Brasov",
-      "pret": 180000,
-      "suprafata": 1200,
-      "img_url":"",
-      "nr_camere": 2
-    },
-    {
-      "id": 46,
-      "locatie": "Strada Principală nr. 123",
-      "oras":"Brasov",
-      "pret": 250000,
-      "suprafata": 1800,
-      "img_url":"",
-      "nr_camere": 3
-    },
-    {
-      "id": 47,
-      "locatie": "Aleea Stejarului nr. 456",
-      "oras":"Brasov",
-      "pret": 350000,
-      "suprafata": 2200,
-      "img_url":"",
-      "nr_camere": 4
-    },
-    {
-      "id": 48,
-      "locatie": "Strada Pinului nr. 789",
-      "oras":"Brasov",
-      "pret": 180000,
-      "suprafata": 1200,
-      "img_url":"",
-      "nr_camere": 2
-    },
-    {
-      "id": 49,
-      "locatie": "Strada Principală nr. 123",
-      "oras":"Constanta",
-      "pret": 250000,
-      "suprafata": 1800,
-      "img_url":"",
-      "nr_camere": 3
-    },
-    {
-      "id": 50,
-      "locatie": "Aleea Stejarului nr. 456",
-      "oras":"Constanta",
-      "pret": 350000,
-      "suprafata": 2200,
-      "img_url":"",
-      "nr_camere": 4
-    },
-    {
-      "id": 51,
-      "locatie": "Strada Pinului nr. 789",
-      "oras":"Constanta",
-      "pret": 180000,
-      "suprafata": 1200,
-      "img_url":"",
-      "nr_camere": 2
-    },
-    {
-      "id": 52,
-      "locatie": "Strada Principală nr. 123",
-      "oras":"Constanta",
-      "pret": 250000,
-      "suprafata": 1800,
-      "img_url":"",
-      "nr_camere": 3
-    },
-    {
-      "id": 53,
-      "locatie": "Aleea Stejarului nr. 456",
-      "oras":"Constanta",
-      "pret": 350000,
-      "suprafata": 2200,
-      "img_url":"",
-      "nr_camere": 4
-    },
-    {
-      "id": 54,
-      "locatie": "Strada Pinului nr. 789",
-      "oras":"Brasov",
-      "pret": 180000,
-      "suprafata": 1200,
-      "img_url":"",
-      "nr_camere": 2
-    },
-    {
-      "id": 55,
-      "locatie": "Strada Principală nr. 123",
-      "oras":"Ploiesti",
-      "pret": 250000,
-      "suprafata": 1800,
-      "img_url":"",
-      "nr_camere": 3
-    },
-    {
-      "id": 56,
-      "locatie": "Aleea Stejarului nr. 456",
-      "oras":"Ploiesti",
-      "pret": 350000,
-      "suprafata": 2200,
-      "img_url":"",
-      "nr_camere": 4
-    },
-    {
-      "id": 57,
-      "locatie": "Strada Pinului nr. 789",
-      "oras":"Bucuresti",
-      "pret": 180000,
-      "suprafata": 1200,
-      "img_url":"",
-      "nr_camere": 2
-    },
-    {
-      "id": 58,
-      "locatie": "Strada Principală nr. 123",
-      "oras":"Cluj-Napoca",
-      "pret": 250000,
-      "suprafata": 1800,
-      "img_url":"",
-      "nr_camere": 3
-    },
-    {
-      "id": 59,
-      "locatie": "Aleea Stejarului nr. 456",
-      "oras":"Iasi",
-      "pret": 350000,
-      "suprafata": 2200,
-      "img_url":"",
-      "nr_camere": 4
-    },
-    {
-      "id": 60,
-      "locatie": "Strada Pinului nr. 789",
-      "oras":"Constanta",
       "pret": 180000,
       "suprafata": 1200,
       "img_url":"",
